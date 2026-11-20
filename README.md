@@ -1,4 +1,4 @@
-# UE5 Blueprint Action Prototype
+# UE5-ThirdPerson-Playground
 
 A third-person action study implemented in Unreal Engine 5.8 using Blueprints, Enhanced Input, animation montages and Motion Warping.
 
